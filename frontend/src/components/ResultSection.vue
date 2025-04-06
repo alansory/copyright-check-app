@@ -26,7 +26,8 @@ export default {
   },
   computed: {
     verdictClass() {
-      return this.result.verdict === 'Copyright Infringed'
+      const results = ["Copyright Infringed", "Error"];
+      return results.includes(this.result.verdict)
         ? 'text-red-600 font-bold'
         : 'text-green-600 font-bold';
     },

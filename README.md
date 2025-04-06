@@ -13,14 +13,14 @@ A full-stack application to check if an image is potentially copyrighted using A
 copyright-check-app/
 ├── frontend/   # Vue 3 + Tailwind app for uploading and previewing images
 │   └── README.md
-├── backend/    # Express/FastAPI app with image classification logic
+├── backend/    # Python Flask API app with image classification logic
 │   └── README.md
 └── README.md  
 ```
 
 Each subfolder contains its own README.md with setup and usage instructions.
 
-📸 Screenshots
+## 📸 Screenshots
 
 Below are screenshots of the project running locally:
 

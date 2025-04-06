@@ -17,7 +17,7 @@ A simple Vue.js frontend application that allows users to upload an image, previ
 
 ## 🧱 Tech Stack
 
-- [Vue 3](https://vuejs.org/) (Composition API)
+- [Vue 3](https://vuejs.org/)
 - [Vite](https://vitejs.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - Pinia (state management)
