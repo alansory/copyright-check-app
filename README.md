@@ -19,3 +19,11 @@ copyright-check-app/
 ```
 
 Each subfolder contains its own README.md with setup and usage instructions.
+
+📸 Screenshots
+
+Below are screenshots of the project running locally:
+
+  ![1](./assets/1.png)
+  ![2](./assets/2.png)
+  ![3](./assets/3.png)

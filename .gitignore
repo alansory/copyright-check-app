@@ -28,6 +28,7 @@ __pycache__/
 # Python venv
 venv/
 backend/venv/
+backend/uploads/
 
 # Python env files
 *.env
